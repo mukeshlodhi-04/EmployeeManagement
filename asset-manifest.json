@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mukeshlodhi-04/EmployeeManagement/static/css/main.42d39201.css",
+    "main.js": "/mukeshlodhi-04/EmployeeManagement/static/js/main.24318521.js",
+    "index.html": "/mukeshlodhi-04/EmployeeManagement/index.html",
+    "main.42d39201.css.map": "/mukeshlodhi-04/EmployeeManagement/static/css/main.42d39201.css.map",
+    "main.24318521.js.map": "/mukeshlodhi-04/EmployeeManagement/static/js/main.24318521.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d39201.css",
+    "static/js/main.24318521.js"
+  ]
+}
